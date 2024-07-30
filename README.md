@@ -57,7 +57,7 @@ To run this project locally, follow these steps:
 Feel free to explore the projects, read the blog posts, and get in touch with me through the contact form. The source code is open for learning purposes, and contributions are welcome.
 
 ## Contact
-If you have any questions, feedback, or collaboration ideas, please reach out to me via email at your-email@example.com or connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile).
+If you have any questions, feedback, or collaboration ideas, please reach out to me via email at theali.edu@gmail.com or connect with me on [LinkedIn](https://pk.linkedin.com/in/ali-khan-jalbani).
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
