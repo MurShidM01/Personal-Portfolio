@@ -5,7 +5,7 @@ Welcome to my personal portfolio repository! This repository contains the source
 This portfolio is designed to highlight my expertise in various fields, including web development, web design, and software engineering. It includes detailed descriptions of my work, source code for my projects, and documentation to help you understand my contributions.
 
 ## Live Demo
-Check out the live version of my portfolio [here](https://www.alieduflare.freewebhostmost.com/).
+Check out the live version of my portfolio [here](https://murshidm01.github.io/Personal-Portfolio/).
 
 ## Table of Contents
 - [Features](#features)
